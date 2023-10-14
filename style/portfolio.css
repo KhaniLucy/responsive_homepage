@@ -42,7 +42,7 @@
   .hero {
     background: var(--secondary-color);
     text-align: center;
-    padding: 160px 20px;
+    padding: 80px 20px;
   }
 
   .logo {
@@ -117,6 +117,7 @@
  footer .contact-box p{
   margin: 16px 0;
  }
+
   .hero p {
     font-size: 36px;
     font-weight: bold;
@@ -202,6 +203,10 @@
       padding: 0;
       text-align: center;
     }
+  }
+
+  .content-container {
+    padding: 60px 20px;
   }
 
   .content h1 {
