@@ -1,6 +1,6 @@
 
 # SEARCH ENGINE OPTIMIZATION: SEO
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/KhaniLucy/responsive_homepage/blob/main/Screenshot%202024-02-28%2022.41.18.png)
 
 
   SEO means the process of improving your website to increase its visibility in Google, Microsoft Bing, and other search engines whenever people search for:
@@ -11,7 +11,7 @@
 
 The better visibility your pages have in search results, the more likely you are to be found and clicked on. Ultimately, the goal of search engine optimization is to help attract website visitors who will become customers, clients or an audience that keeps coming back.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/KhaniLucy/responsive_homepage/blob/main/SEO-1200x600.png)
 
 
 
